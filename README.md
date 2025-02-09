@@ -1,14 +1,14 @@
-# [Project Name] 🎯
+# SignLang 🎯
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: Illuminati
 
 
 ### Team Members
-- Member 1: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Member 1: Shradha Shenoy - Model Engineering College
+- Member 2: Neehara Prajesh - Model Engineering College
+
 
 ### Hosted Project Link
 [mention your project hosted project link here]
