@@ -11,29 +11,25 @@
 
 
 ### Hosted Project Link
-[mention your project hosted project link here]
+https://nocodegal.github.io/tinkerhac/
 
 ### Project Description
-[2-3 lines about what your project does]
+Our project SignLang AI converts sign language to text,right now we could only train the first 10 letters of English alphabet
 
 ### The Problem statement
-[What ridiculous problem are you solving?]
+Problem Statement: 
+
+Communication barriers between sign language users and non-signers make daily interactions challenging, limiting accessibility in education, workplaces, and social settings. 
 
 ### The Solution
-[How are you solving it? Keep it fun!]
+Welcome to SignLang AI, a web application that bridges the communication gap between sign language users and the wider world. Using cutting-edge AI-powered real-time sign language recognition, our platform translates sign language gestures into text instantly, making interactions more seamless and inclusive.
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
-
-For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
+- python(openCv,mediapipe)
+- google teachable machine
+- html,css,javascript
 
 ### Implementation
 For Software:
@@ -41,59 +37,47 @@ For Software:
 [commands]
 
 # Run
-[commands]
+Just click the "TRY THIS" link and you will be 
 
 ### Project Documentation
 For Software:
 
 # Screenshots (Add at least 3)
 ![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
+https://drive.google.com/drive/folders/1kHl-ZkYjobURxydW97RUVJfHK-gKJC0q
+shows the landing page of our website
 
 ![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
+https://drive.google.com/drive/folders/1kHl-ZkYjobURxydW97RUVJfHK-gKJC0q
+shows the model recognising text of the sign language shown
 
 ![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
-
-# Diagrams
-![Workflow](Add your workflow/architecture diagram here)
-*Add caption explaining your workflow*
-
-For Hardware:
-
-# Schematic & Circuit
-![Circuit](Add your circuit diagram here)
-*Add caption explaining connections*
-
-![Schematic](Add your schematic diagram here)
-*Add caption explaining the schematic*
+https://drive.google.com/drive/folders/1kHl-ZkYjobURxydW97RUVJfHK-gKJC0q
+shows the model recognising text of the sign language shown
 
 # Build Photos
 ![Team](Add photo of your team here)
+https://drive.google.com/drive/folders/1kHl-ZkYjobURxydW97RUVJfHK-gKJC0q
 
-
-![Components](Add photo of your components here)
-*List out all components shown*
 
 ![Build](Add photos of build process here)
-*Explain the build steps*
+https://drive.google.com/drive/folders/1kHl-ZkYjobURxydW97RUVJfHK-gKJC0q
 
 ![Final](Add photo of final product here)
-*Explain the final build*
+https://drive.google.com/drive/folders/1kHl-ZkYjobURxydW97RUVJfHK-gKJC0q
 
 ### Project Demo
 # Video
-[Add your demo video link here]
+https://drive.google.com/drive/folders/1kHl-ZkYjobURxydW97RUVJfHK-gKJC0q
+video explains how it recognises first 10 letters of english sign language alphabet
 *Explain what the video demonstrates*
 
 # Additional Demos
-[Add any extra demo materials/links]
+https://drive.google.com/drive/folders/1kHl-ZkYjobURxydW97RUVJfHK-gKJC0q
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+- Shradha: Model training
+- Neehara: Model training
 
 ---
 Made with ❤️ at TinkerHub
